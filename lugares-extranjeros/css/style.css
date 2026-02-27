@@ -46,6 +46,9 @@ nav a:hover{
 
 .hero{
   height:60vh;
+  max-width:1000px;     /* limita el ancho */
+  margin:40px auto;     /* centra el bloque */
+  border-radius:15px;   /* bordes redondeados */
   background-size:cover;
   background-position:center;
   display:flex;
