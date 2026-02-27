@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true
+  },
+  "javascript.validate.enable": false,
+  "css.validate": true,
+  "html.format.enable": true
+}
